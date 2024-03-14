@@ -47,3 +47,24 @@ button:hover {
 .emoji {
     font-size: 1.5em;
 }
+
+#result {
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+.valid {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: green;
+}
+
+.invalid {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #ff0000;
+}
